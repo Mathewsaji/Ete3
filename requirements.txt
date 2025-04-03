@@ -1,1 +1,7 @@
-matplotlib.pyplot
+streamlit
+pandas
+matplotlib
+seaborn
+textblob
+wordcloud
+pillow
